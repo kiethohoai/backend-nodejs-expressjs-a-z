@@ -1,6 +1,7 @@
 Backend with NodeJs & ExpressJS
 Create by DavidHo (Ho Hoai Kiet)
 
+#29.2 Relational Database (Không dùng Docker!)
 #29.1 Relational Database (Sử dụng Docker)
 #28. Docker Hub
 #27. Sử dụng Docker
