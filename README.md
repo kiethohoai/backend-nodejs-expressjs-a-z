@@ -6,3 +6,4 @@ Create by DavidHo (Ho Hoai Kiet)
 #18. Template (View) Engine
 #19. ENV (Environment Variables)
 #20. DevTool - Nodemon
+#21. Static files
