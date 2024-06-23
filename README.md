@@ -1,6 +1,7 @@
 Backend with NodeJs & ExpressJS
 Create by DavidHo (Ho Hoai Kiet)
 
+#23. Tổ chức các thư mục project
 #22. Mô hình MVC
 #21. Static files
 #20. DevTool - Nodemon
