@@ -1,7 +1,9 @@
+require("dotenv").config();
 const express = require("express");
+const { hostname } = require("os");
 const path = require("path");
 const app = express();
-const port = 3000;
+const port = process.env.PORT || 3000;
 
 // config template engine
 app.set("views", path.join(__dirname, "./views"));
@@ -20,6 +22,7 @@ app.get("/users", (req, res) => {
   res.send("Users Router");
 });
 
+// app show
 app.listen(port, () => {
   console.log(`Example app listening on port ${port}`);
 });
