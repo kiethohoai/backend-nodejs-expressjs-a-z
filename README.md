@@ -1,6 +1,7 @@
 Backend with NodeJs & ExpressJS
 Create by DavidHo (Ho Hoai Kiet)
 
+#26. Why Docker
 #25. Áp dụng mô hình MVC với Node.js (Part 2)
 #24. Áp dụng mô hình MVC với Node.js (Part 1)
 #23. Tổ chức các thư mục project
@@ -11,10 +12,4 @@ Create by DavidHo (Ho Hoai Kiet)
 #18. Template (View) Engine
 #17. More Routes
 #16. Mô hình hoạt động của Express
-#15. Do We Need Babel 
-
-
-
-
-
-
+#15. Do We Need Babel
