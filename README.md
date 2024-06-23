@@ -1,6 +1,7 @@
 Backend with NodeJs & ExpressJS
 Create by DavidHo (Ho Hoai Kiet)
 
+#25. Áp dụng mô hình MVC với Node.js (Part 2)
 #24. Áp dụng mô hình MVC với Node.js (Part 1)
 #23. Tổ chức các thư mục project
 #22. Mô hình MVC

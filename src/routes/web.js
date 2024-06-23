@@ -1,17 +1,10 @@
 const express = require("express");
 const router = express.Router();
+const { getHomepage, getUsersPage } = require("../controllers/homeController");
 
 // config routes
-router.get("/", (req, res) => {
-  res.render("home.ejs");
-});
-
-router.get("/home", (req, res) => {
-  res.render("home.ejs");
-});
-
-router.get("/users", (req, res) => {
-  res.send("Users Router by HHK");
-});
+router.get("/", getHomepage);
+router.get("/home", getHomepage);
+router.get("/users", getUsersPage);
 
 module.exports = router;
