@@ -1,3 +1,4 @@
 Backend with NodeJs & ExpressJS
 Create by DavidHo (Ho Hoai Kiet)
-We don't need Babel for this project!
+#15. Do We Need Babel 
+#16. Mô hình hoạt động của Express
